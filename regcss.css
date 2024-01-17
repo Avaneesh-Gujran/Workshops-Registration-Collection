@@ -1,0 +1,60 @@
+.registration-form {
+    background-color: #222;
+    padding: 2em;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.registration-form h1 {
+    color: #FFF;
+    margin-bottom: 1em;
+}
+
+.form-group {
+    margin-bottom: 1em;
+}
+
+.form-group label {
+    color: #DDD;
+    display: block;
+    margin-bottom: .5em;
+}
+
+.form-group select {
+    width: 100%;
+    padding: .5em;
+    border-radius: 5px;
+    border: 1px solid #555;
+}
+
+#registerButton {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+}
+
+#registerButton:hover {
+    background-color: #777;
+}
+
+#buyPassButton {
+    background-color: #28a745; /* A green color for the purchase button */
+    color: white;
+    border: none;
+    padding: 1em 2em;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+    margin-top: 1em;
+}
+
+#buyPassButton:hover {
+    background-color: #218838;
+}
